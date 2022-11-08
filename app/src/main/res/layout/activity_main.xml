@@ -89,5 +89,4 @@
         app:layout_constraintTop_toBottomOf="@+id/editUsername" />
 
 
-
 </androidx.constraintlayout.widget.ConstraintLayout>

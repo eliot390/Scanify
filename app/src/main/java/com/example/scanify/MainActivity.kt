@@ -1,10 +1,15 @@
 package com.example.scanify
 
+import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.widget.doOnTextChanged
+import androidx.lifecycle.MediatorLiveData
+import androidx.lifecycle.MutableLiveData
+import com.google.android.material.textfield.TextInputLayout
 
 class MainActivity : AppCompatActivity(){
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -25,17 +30,9 @@ class MainActivity : AppCompatActivity(){
             val username = editUsername.text
             val password = editPassword.text
             Toast.makeText(this@MainActivity, "Welcome $username!", Toast.LENGTH_LONG).show()
+
+            val intent = Intent(this, home::class.java)
+            startActivity(intent)
         }
     }
-
-    /*fun onLoginClick(view: View) {
-        val txtUsername: TextView = findViewById(R.id.txtUsername)
-        val txtPassword: TextView = findViewById(R.id.txtPassword)
-        val editUsername: TextView = findViewById(R.id.editUsername)
-        val editPassword: TextView = findViewById(R.id.editPassword)
-
-        txtUsername.setText("@string/username" + editUsername.getText().toString())
-        txtPassword.setText("@string/password" + editPassword.getText().toString())
-    }*/
-
 }

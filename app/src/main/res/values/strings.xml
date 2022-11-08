@@ -8,4 +8,7 @@
     <string name="camera">Scan Now!</string>
     <string name="scancode">scanCode</string>
     <string name="reset">Reset</string>
+    <string name="history">History</string>
+    <string name="scan">Scan</string>
+    <string name="logout">Logout</string>
 </resources>
