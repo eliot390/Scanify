@@ -12,6 +12,22 @@ import androidx.lifecycle.MutableLiveData
 import com.google.android.material.textfield.TextInputLayout
 
 class MainActivity : AppCompatActivity(){
+
+    private val userData = MutableLiveData<String>()
+    private val passData = MutableLiveData<String>()
+    private val validData = MediatorLiveData<Boolean>().apply {
+        this.value = false
+
+        addSource(userData) { username ->
+            val password = passData.value
+            this.value = validateForm(username, password)
+        }
+        addSource(passData) { password ->
+            val username = userData.value
+            this.value = validateForm(username, password)
+        }
+    }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -21,6 +37,18 @@ class MainActivity : AppCompatActivity(){
         val btnReset = findViewById<Button>(R.id.btnReset)
         val btnLogin = findViewById<Button>(R.id.btnLogin)
 
+        editUsername.doOnTextChanged { text, _, _, _ ->
+            userData.value = text?.toString()
+        }
+
+        editPassword.doOnTextChanged { text, _, _, _ ->
+            passData.value = text?.toString()
+        }
+
+        validData.observe(this){ isValid ->
+            btnLogin.isEnabled = isValid
+        }
+
         btnReset.setOnClickListener{
             editUsername.setText("")
             editPassword.setText("")
@@ -28,11 +56,16 @@ class MainActivity : AppCompatActivity(){
 
         btnLogin.setOnClickListener{
             val username = editUsername.text
-            val password = editPassword.text
             Toast.makeText(this@MainActivity, "Welcome $username!", Toast.LENGTH_LONG).show()
 
             val intent = Intent(this, home::class.java)
             startActivity(intent)
         }
+    }
+
+    private fun validateForm(editUsername: String?, editPassword: String?) : Boolean {
+        val validUsername = editUsername != null && editUsername.isNotBlank()
+        val validPassword = editPassword != null && editPassword.isNotBlank() && editPassword.length > 5
+        return validUsername && validPassword
     }
 }
