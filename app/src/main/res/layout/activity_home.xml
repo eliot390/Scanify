@@ -7,94 +7,26 @@
     android:background="@drawable/gradient"
     android:elevation="1dp"
     android:fontFamily="@font/aldrich"
-    tools:context=".home">
+    tools:context=".Home">
 
-    <ImageView
-        android:id="@+id/imageView6"
-        android:layout_width="75dp"
+    <FrameLayout
+        android:id="@+id/flFragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/bottomNavigationView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        android:layout_width="match_parent"
         android:layout_height="75dp"
-        android:contentDescription="@string/scan"
-        android:elevation="10dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.52"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.792"
-        app:srcCompat="@drawable/scan_svgrepo_com__1_" />
-
-    <TextView
-        android:id="@+id/textView4"
-        android:layout_width="75dp"
-        android:layout_height="32dp"
-        android:elevation="10dp"
-        android:text="@string/logout"
-        android:textColor="@color/black"
-        android:textSize="20sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/btnLogout"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="@+id/btnLogout"
-        app:layout_constraintTop_toBottomOf="@+id/btnLogout"
-        app:layout_constraintVertical_bias="0.0" />
-
-    <ImageView
-        android:id="@+id/btnLogout"
-        android:layout_width="75dp"
-        android:layout_height="75dp"
-        android:contentDescription="@string/logout"
-        android:elevation="10dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.869"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.792"
-        app:srcCompat="@drawable/logout_svgrepo_com" />
-
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="75dp"
-        android:layout_height="34dp"
-        android:elevation="10dp"
-        android:text="@string/scan"
-        android:textColor="@color/black"
-        android:textSize="20sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/imageView6"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="@+id/imageView6"
-        app:layout_constraintTop_toBottomOf="@+id/imageView6"
-        app:layout_constraintVertical_bias="0.0" />
-
-    <ImageView
-        android:id="@+id/imageView4"
-        android:layout_width="75dp"
-        android:layout_height="75dp"
-        android:contentDescription="@string/history"
-        android:elevation="10dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.175"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.792"
-        app:srcCompat="@drawable/history_svgrepo_com" />
-
-    <TextView
-        android:id="@+id/history"
-        android:layout_width="78dp"
-        android:layout_height="31dp"
-        android:layout_marginBottom="4dp"
-        android:elevation="10dp"
-        android:text="@string/history"
-        android:textColor="@color/black"
-        android:textSize="20sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/imageView4"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="@+id/imageView4"
-        app:layout_constraintTop_toBottomOf="@+id/imageView4"
-        app:layout_constraintVertical_bias="0.0" />
+        app:menu="@menu/bottom_nav_menu"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

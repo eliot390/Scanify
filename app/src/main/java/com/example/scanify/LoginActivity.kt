@@ -9,9 +9,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.widget.doOnTextChanged
 import androidx.lifecycle.MediatorLiveData
 import androidx.lifecycle.MutableLiveData
-import com.google.android.material.textfield.TextInputLayout
 
-class MainActivity : AppCompatActivity(){
+class LoginActivity : AppCompatActivity(){
 
     private val userData = MutableLiveData<String>()
     private val passData = MutableLiveData<String>()
@@ -30,7 +29,7 @@ class MainActivity : AppCompatActivity(){
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_login)
 
         val editUsername = findViewById<EditText>(R.id.editUsername)
         val editPassword = findViewById<EditText>(R.id.editPassword)
@@ -56,9 +55,9 @@ class MainActivity : AppCompatActivity(){
 
         btnLogin.setOnClickListener{
             val username = editUsername.text
-            Toast.makeText(this@MainActivity, "Welcome $username!", Toast.LENGTH_LONG).show()
+            Toast.makeText(this@LoginActivity, "Welcome $username!", Toast.LENGTH_LONG).show()
 
-            val intent = Intent(this, home::class.java)
+            val intent = Intent(this, Home::class.java)
             startActivity(intent)
         }
     }
