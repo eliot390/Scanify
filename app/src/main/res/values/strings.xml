@@ -3,6 +3,7 @@
     <string name="Scan">Scan</string>
     <string name="welcome">Welcome to Scanify!</string>
     <string name="login">Login</string>
+    <string name="logout">Logout</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="camera">Scan Now!</string>
@@ -10,5 +11,8 @@
     <string name="reset">Reset</string>
     <string name="history">History</string>
     <string name="scan">Scan</string>
-    <string name="logout">Logout</string>
+    <string name="com_auth0_client_id" />
+    <string name="com_auth0_domain" />
+    <string name="com_auth0_scheme" />
+
 </resources>

@@ -63,8 +63,8 @@ class LoginActivity : AppCompatActivity(){
     }
 
     private fun validateForm(editUsername: String?, editPassword: String?) : Boolean {
-        val validUsername = editUsername != null && editUsername.isNotBlank()
-        val validPassword = editPassword != null && editPassword.isNotBlank() && editPassword.length > 5
+        val validUsername = (editUsername != null) && (editUsername.isNotBlank())
+        val validPassword = (editPassword != null) && (editPassword.isNotBlank()) && (editPassword.length > 5)
         return validUsername && validPassword
     }
 }
