@@ -7,22 +7,9 @@
     android:background="@drawable/gradient"
     tools:context=".Scan">
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="313dp"
-        android:layout_height="63dp"
-        android:text="@string/camera"
-        android:textColor="@color/white"
-        android:textAlignment="center"
-        android:gravity="center"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.124" />
 
     <Button
-        android:id="@+id/btnLogin"
+        android:id="@+id/btnCapture"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="108dp"
@@ -34,17 +21,22 @@
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent" />
 
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="198dp"
-        android:layout_height="165dp"
-        android:contentDescription="@string/scancode"
-        app:layout_constraintBottom_toTopOf="@+id/btnLogin"
+
+    <com.budiyev.android.codescanner.CodeScannerView
+        android:id="@+id/scanner_view"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:layout_constraintVertical_bias="0.514"
-        app:srcCompat="@drawable/border_radius" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:autoFocusButtonColor="@android:color/white"
+        app:autoFocusButtonVisible="true"
+        app:flashButtonColor="@android:color/white"
+        app:flashButtonVisible="true"
+        app:maskColor="#5B000000"
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
