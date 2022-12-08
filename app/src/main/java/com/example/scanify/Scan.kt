@@ -57,7 +57,7 @@ class Scan : AppCompatActivity(){
 
             decodeCallback = DecodeCallback {
                 runOnUiThread {
-
+                    btnCapture.text = it.text
                 }
             }
 
