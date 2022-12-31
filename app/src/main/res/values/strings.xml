@@ -35,7 +35,7 @@
 
     <!-- User profile -->
     <string name="user_profile">
-        Name: %1$s\n
+        Welcome %1$s\n
         Email: %2$s
     </string>
 

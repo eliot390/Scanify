@@ -13,7 +13,7 @@ import kotlinx.android.synthetic.main.camera_page.*
 
 private const val CAMERA_REQUEST_CODE = 101
 
-class Scan : AppCompatActivity(){
+class Scan : AppCompatActivity() {
 
     private lateinit var codeScanner: CodeScanner
 
