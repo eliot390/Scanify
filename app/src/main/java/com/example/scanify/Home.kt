@@ -28,12 +28,5 @@ class Home : AppCompatActivity() {
             val intent = Intent(this, LoginActivity::class.java)
             startActivity(intent)
         }
-
-
-        /*val actionBar = supportActionBar
-        if(actionBar != null){
-            actionBar.title = "Home"
-        }
-        actionBar?.setDisplayHomeAsUpEnabled(true)*/
     }
 }

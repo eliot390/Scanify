@@ -7,20 +7,6 @@
     android:background="@drawable/gradient"
     tools:context=".Scan">
 
-    <!--<TextView
-        android:id="@+id/textView"
-        android:layout_width="313dp"
-        android:layout_height="63dp"
-        android:text="@string/camera"
-        android:textColor="@color/white"
-        android:textAlignment="center"
-        android:gravity="center"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.124" />-->
-
     <Button
         android:id="@+id/btnLogin"
         android:layout_width="wrap_content"
