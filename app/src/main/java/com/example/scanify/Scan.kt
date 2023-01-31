@@ -95,4 +95,6 @@ class Scan : AppCompatActivity() {
         }
     }
 
+    private fun getJson(){}
+
 }
