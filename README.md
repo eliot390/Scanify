@@ -8,15 +8,15 @@ The main objective of this project is to develop an Android based app which can 
 -	Allow users to create accounts for personalization
 - Save products to personal database for future purchase
 - Compare prices of online & retail locations
-
+---
 ### Methods: 
 The following methods will be used to achieve the project objectives:
 -	Auth0 authentication
 - Barcode API
 - SQLite database
-
-Team Members and Responsibilities:<br>
-- Eliot Pardo: User authentication, API implementation, UI/UX design, Testing<br>
-- Summayah Waseem: Camera permissions, Barcode libraries implementation, UI design<br>
-- Jeovany Guillen: App website, Database Implementation, UI design<br>
-- Tommy Ibrahimi: Database implementation, Testing
+---
+### Team Members and Responsibilities:<br>
+***Eliot Pardo***: User authentication, API implementation, UI/UX design, Testing<br>
+***Summayah Waseem***: Camera permissions, Barcode libraries implementation, UI design<br>
+***Jeovany Guillen***: App website, Database Implementation, UI design<br>
+***Tommy Ibrahimi***: Database implementation, Testing
