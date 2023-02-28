@@ -15,7 +15,7 @@ The following methods will be used to achieve the project objectives:
 - SQLite database
 ---
 ### Team Members and Responsibilities:<br>
-***Eliot Pardo***: User authentication, API implementation, UI/UX design, Testing<br>
-***Summayah Waseem***: Camera permissions, Barcode libraries implementation, UI design<br>
-***Jeovany Guillen***: App website, Database Implementation, UI design<br>
-***Tommy Ibrahimi***: Database implementation, Testing
+- Eliot Pardo: User authentication, API implementation, UI/UX design, Testing<br>
+- Summayah Waseem: Camera permissions, Barcode libraries implementation, UI design<br>
+- Jeovany Guillen: App website, Database Implementation, UI design<br>
+- Tommy Ibrahimi: Database implementation, Testing
