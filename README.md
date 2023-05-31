@@ -1,0 +1,2 @@
+# Scanify
+Barcode scanning app
