@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-mergeDebugResources-44:\\layout\\activity_manual_scan.xml",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\layout\\activity_manual_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-mergeDebugResources-44:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.scanify.app-mergeDebugResources-44:/layout/activity_login.xml",
+        "source": "com.example.scanify.app-main-47:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-mergeDebugResources-44:\\layout\\product_row.xml",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\layout\\product_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-mergeDebugResources-44:\\layout\\activity_wishlist.xml",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\layout\\activity_wishlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-mergeDebugResources-44:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-mergeDebugResources-44:\\layout\\activity_history.xml",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-mergeDebugResources-44:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-mergeDebugResources-44:\\layout\\camera_page.xml",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\layout\\camera_page.xml"
+    }
+]

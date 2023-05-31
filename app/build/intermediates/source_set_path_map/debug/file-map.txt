@@ -1,0 +1,48 @@
+com.example.scanify.app-transition-1.2.0-0 C:\Users\djgak\.gradle\caches\transforms-3\0264fd86e07a3d7e98daa2785f3ebbaf\transformed\transition-1.2.0\res
+com.example.scanify.app-jetified-annotation-experimental-1.3.0-1 C:\Users\djgak\.gradle\caches\transforms-3\053a7dd168b23d059668ac880af360b5\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.scanify.app-jetified-auth0-2.8.0-2 C:\Users\djgak\.gradle\caches\transforms-3\10c73704293f298596db3eff50982f2c\transformed\jetified-auth0-2.8.0\res
+com.example.scanify.app-jetified-fragment-ktx-1.5.7-3 C:\Users\djgak\.gradle\caches\transforms-3\198355a98578d83c7fcf8f1c2d64cd71\transformed\jetified-fragment-ktx-1.5.7\res
+com.example.scanify.app-jetified-firebase-common-20.2.0-4 C:\Users\djgak\.gradle\caches\transforms-3\1d2e8a153bf3f0dc5e7dbf7f088e3c31\transformed\jetified-firebase-common-20.2.0\res
+com.example.scanify.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-5 C:\Users\djgak\.gradle\caches\transforms-3\1ed8cbb7f5bc7b0bf7e7e7c89f556004\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.scanify.app-jetified-core-ktx-1.10.0-6 C:\Users\djgak\.gradle\caches\transforms-3\26c43b20b19058c23634ad6c8fbda89d\transformed\jetified-core-ktx-1.10.0\res
+com.example.scanify.app-jetified-profileinstaller-1.3.0-7 C:\Users\djgak\.gradle\caches\transforms-3\278e9a0da196b7b0e702afc25abaed4b\transformed\jetified-profileinstaller-1.3.0\res
+com.example.scanify.app-jetified-viewpager2-1.0.0-8 C:\Users\djgak\.gradle\caches\transforms-3\281921c62f97d719a5aee702f3d32a79\transformed\jetified-viewpager2-1.0.0\res
+com.example.scanify.app-appcompat-1.6.1-9 C:\Users\djgak\.gradle\caches\transforms-3\36385fddde8a6b6ffe3ec449d3a00928\transformed\appcompat-1.6.1\res
+com.example.scanify.app-drawerlayout-1.1.1-10 C:\Users\djgak\.gradle\caches\transforms-3\3bc0e7946cf9458d2452bb1893bd3668\transformed\drawerlayout-1.1.1\res
+com.example.scanify.app-lifecycle-viewmodel-2.6.1-11 C:\Users\djgak\.gradle\caches\transforms-3\3ff84b4a10c49a5e7b5e2cccfcbee002\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.scanify.app-jetified-lifecycle-livedata-core-ktx-2.6.1-12 C:\Users\djgak\.gradle\caches\transforms-3\427231026c6d689b8d665a660552f850\transformed\jetified-lifecycle-livedata-core-ktx-2.6.1\res
+com.example.scanify.app-jetified-emoji2-1.2.0-13 C:\Users\djgak\.gradle\caches\transforms-3\4453860d75c02ef63d148f68261332f1\transformed\jetified-emoji2-1.2.0\res
+com.example.scanify.app-jetified-lifecycle-viewmodel-ktx-2.6.1-14 C:\Users\djgak\.gradle\caches\transforms-3\4aae64c03898276800baf6d340432968\transformed\jetified-lifecycle-viewmodel-ktx-2.6.1\res
+com.example.scanify.app-recyclerview-1.1.0-15 C:\Users\djgak\.gradle\caches\transforms-3\4b16b325afaed954d1e30c528b431d76\transformed\recyclerview-1.1.0\res
+com.example.scanify.app-lifecycle-livedata-2.6.1-16 C:\Users\djgak\.gradle\caches\transforms-3\4f6d05868f976aebd060cb3923f1108f\transformed\lifecycle-livedata-2.6.1\res
+com.example.scanify.app-jetified-savedstate-1.2.1-17 C:\Users\djgak\.gradle\caches\transforms-3\5049282efe8bcc0e843d743823e354ed\transformed\jetified-savedstate-1.2.1\res
+com.example.scanify.app-coordinatorlayout-1.1.0-18 C:\Users\djgak\.gradle\caches\transforms-3\635018decbc004aeca5a94424b743e54\transformed\coordinatorlayout-1.1.0\res
+com.example.scanify.app-jetified-code-scanner-2.3.2-19 C:\Users\djgak\.gradle\caches\transforms-3\745fc6a08200226cc28c69b8478fb96c\transformed\jetified-code-scanner-2.3.2\res
+com.example.scanify.app-core-runtime-2.2.0-20 C:\Users\djgak\.gradle\caches\transforms-3\770a7b0c8bc0dcd441232643be83b035\transformed\core-runtime-2.2.0\res
+com.example.scanify.app-jetified-activity-1.7.1-21 C:\Users\djgak\.gradle\caches\transforms-3\773e5348f175f3634879d976cc96523c\transformed\jetified-activity-1.7.1\res
+com.example.scanify.app-material-1.8.0-22 C:\Users\djgak\.gradle\caches\transforms-3\7c083dce89ef309706d5af832fc5c87a\transformed\material-1.8.0\res
+com.example.scanify.app-jetified-emoji2-views-helper-1.2.0-23 C:\Users\djgak\.gradle\caches\transforms-3\82d18325a485380a8e9aacd9c4599903\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.scanify.app-jetified-play-services-base-17.1.0-24 C:\Users\djgak\.gradle\caches\transforms-3\83661866eda7e4d039ca22c8c96e0951\transformed\jetified-play-services-base-17.1.0\res
+com.example.scanify.app-lifecycle-livedata-core-2.6.1-25 C:\Users\djgak\.gradle\caches\transforms-3\83caf609ef82d09ba058d85029124e64\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.scanify.app-cardview-1.0.0-26 C:\Users\djgak\.gradle\caches\transforms-3\89d4a37910b9c10c78bef0973c948796\transformed\cardview-1.0.0\res
+com.example.scanify.app-jetified-lifecycle-runtime-ktx-2.6.1-27 C:\Users\djgak\.gradle\caches\transforms-3\9173b957f31139120ad7ebc905d328c1\transformed\jetified-lifecycle-runtime-ktx-2.6.1\res
+com.example.scanify.app-browser-1.4.0-28 C:\Users\djgak\.gradle\caches\transforms-3\a36260cbc4d47d26d0017def7b3e42a8\transformed\browser-1.4.0\res
+com.example.scanify.app-jetified-activity-ktx-1.7.1-29 C:\Users\djgak\.gradle\caches\transforms-3\a421e3fcce231e0acf98cb3fe2298e45\transformed\jetified-activity-ktx-1.7.1\res
+com.example.scanify.app-lifecycle-runtime-2.6.1-30 C:\Users\djgak\.gradle\caches\transforms-3\a4fd7b3f05a6d819d85aba0c7aa8b29e\transformed\lifecycle-runtime-2.6.1\res
+com.example.scanify.app-jetified-appcompat-resources-1.6.1-31 C:\Users\djgak\.gradle\caches\transforms-3\b9f0c1be3d413dc855095b829e75b884\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.scanify.app-constraintlayout-2.1.4-32 C:\Users\djgak\.gradle\caches\transforms-3\c9504a2d2832f99d06ccaa95d929074d\transformed\constraintlayout-2.1.4\res
+com.example.scanify.app-jetified-startup-runtime-1.1.1-33 C:\Users\djgak\.gradle\caches\transforms-3\cc713214dbcc468bca2ca65fbde1cca2\transformed\jetified-startup-runtime-1.1.1\res
+com.example.scanify.app-fragment-1.5.7-34 C:\Users\djgak\.gradle\caches\transforms-3\d19101d83899fdc2a40383f7ea3579a5\transformed\fragment-1.5.7\res
+com.example.scanify.app-jetified-savedstate-ktx-1.2.1-35 C:\Users\djgak\.gradle\caches\transforms-3\da7db5f5b85b33df287742b095f762da\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.scanify.app-jetified-lifecycle-process-2.6.1-36 C:\Users\djgak\.gradle\caches\transforms-3\eb4df3c887276c9330cdc0f71cbf2d73\transformed\jetified-lifecycle-process-2.6.1\res
+com.example.scanify.app-jetified-play-services-basement-18.1.0-37 C:\Users\djgak\.gradle\caches\transforms-3\fa161cf9d468d582a029611a4e23cc5f\transformed\jetified-play-services-basement-18.1.0\res
+com.example.scanify.app-core-1.10.0-38 C:\Users\djgak\.gradle\caches\transforms-3\fbc3b9f999244ade278936f7c36133eb\transformed\core-1.10.0\res
+com.example.scanify.app-google-services-39 D:\Coding-Projects\School\CSUN\COMP 490\Scanify\app\build\generated\res\google-services\debug
+com.example.scanify.app-pngs-40 D:\Coding-Projects\School\CSUN\COMP 490\Scanify\app\build\generated\res\pngs\debug
+com.example.scanify.app-resValues-41 D:\Coding-Projects\School\CSUN\COMP 490\Scanify\app\build\generated\res\resValues\debug
+com.example.scanify.app-rs-42 D:\Coding-Projects\School\CSUN\COMP 490\Scanify\app\build\generated\res\rs\debug
+com.example.scanify.app-packageDebugResources-43 D:\Coding-Projects\School\CSUN\COMP 490\Scanify\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.scanify.app-packageDebugResources-44 D:\Coding-Projects\School\CSUN\COMP 490\Scanify\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.scanify.app-merged_res-45 D:\Coding-Projects\School\CSUN\COMP 490\Scanify\app\build\intermediates\merged_res\debug
+com.example.scanify.app-debug-46 D:\Coding-Projects\School\CSUN\COMP 490\Scanify\app\src\debug\res
+com.example.scanify.app-main-47 D:\Coding-Projects\School\CSUN\COMP 490\Scanify\app\src\main\res

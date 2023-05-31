@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "55784339304",
+    "project_id": "scanify-afbfc",
+    "storage_bucket": "scanify-afbfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55784339304:android:67a7da47b8f8ce510fc8dd",
+        "android_client_info": {
+          "package_name": "com.example.scanify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55784339304-436m1g93ergei8ffjstm0mde5a34lnv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scanify",
+            "certificate_hash": "f1aecb033f9fc2de4f8c7c64b6b3becae072c012"
+          }
+        },
+        {
+          "client_id": "55784339304-r6s0fhde3e7ca7u0pmmodmpun59sqk6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCGjyMQMXoPx_pJ50t5G0fVFQW_ajFxjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55784339304-r6s0fhde3e7ca7u0pmmodmpun59sqk6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

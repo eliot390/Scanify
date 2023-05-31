@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-pngs-40:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-debug-46:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\layout_activity_wishlist.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\layout\\activity_wishlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\drawable_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\drawable\\baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-debug-46:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\drawable_ic_heart.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\drawable\\ic_heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\drawable_history_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\drawable\\history_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-debug-46:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-debug-46:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\layout_camera_page.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\layout\\camera_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\drawable_rounded_icon.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\drawable\\rounded_icon.xml"
+    },
+    {
+        "merged": "com.example.scanify.app-merged_res-45:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.scanify.app-main-47:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-debug-46:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\layout_activity_manual_scan.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\layout\\activity_manual_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\drawable_ic_heart_outline.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\drawable\\ic_heart_outline.xml"
+    },
+    {
+        "merged": "com.example.scanify.app-merged_res-45:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.scanify.app-main-47:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.scanify.app-merged_res-45:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.scanify.app-main-47:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\drawable__813496_2.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\drawable\\_813496_2.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-debug-46:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\layout_product_row.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\layout\\product_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\drawable__813496_3.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\drawable\\_813496_3.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-debug-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-debug-46:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\drawable_scan_svgrepo_com__1_.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\drawable\\scan_svgrepo_com__1_.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\drawable_rounded_text.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\drawable\\rounded_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\drawable__813496.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\drawable\\_813496.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-debug-46:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\font_aldrich.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\font\\aldrich.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-debug-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-debug-46:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.example.scanify.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.scanify.app-main-47:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-debug-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.scanify.app-merged_res-45:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.scanify.app-main-47:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-debug-46:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-merged_res-45:\\drawable_logout_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\djgak\\.gradle\\daemon\\7.5\\com.example.scanify.app-main-47:\\drawable\\logout_svgrepo_com.xml"
+    }
+]

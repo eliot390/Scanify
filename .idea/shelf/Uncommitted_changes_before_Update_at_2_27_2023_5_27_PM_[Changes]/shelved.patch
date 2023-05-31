@@ -1,0 +1,18 @@
+Index: app/src/main/res/values/strings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><resources>\r\n    <string name=\"app_name\">Scanify</string>\r\n    <string name=\"Scan\">Scan barcode for prices or reviews</string>\r\n    <string name=\"welcome\">Welcome to Scanify!</string>\r\n    <string name=\"login\">Login</string>\r\n    <string name=\"logout\">Logout</string>\r\n    <string name=\"scancode\">scanCode</string>\r\n    <string name=\"history\">History</string>\r\n    <string name=\"scan\">Scan</string>\r\n\r\n    <!-- Identifiers -->\r\n    <string name=\"com_auth0_scheme\">app</string>\r\n\r\n    <!-- Settings -->\r\n    <string name=\"login_scopes\">openid profile email read:current_user update:current_user_metadata</string>\r\n    <string name=\"login_audience\">https://%1$s/api/v2/</string>\r\n\r\n    <!-- Title -->\r\n    <string name=\"initial_title\">Welcome to Scanify</string>\r\n    <string name=\"logged_in_title\">You\\'re logged in.</string>\r\n    <string name=\"logged_out_title\">You\\'re logged out.</string>\r\n\r\n    <!-- \"Log in\" and \"Log out\" buttons -->\r\n    <string name=\"btnLogin\">Log in</string>\r\n    <string name=\"btnLogout\">Log out</string>\r\n\r\n    <!-- User profile -->\r\n    <string name=\"user_profile\">\r\n        Welcome %1$s\\n\r\n        <!--Email: %2$s -->\r\n    </string>\r\n\r\n    <!-- SnackBar messages-->\r\n    <string name=\"login_success_message\">Successfully logged in!</string>\r\n    <string name=\"login_failure_message\">Failed to log in.</string>\r\n    <string name=\"general_failure_with_exception_code\">Failed - exception code: %1$s</string>\r\n    <string name=\"general_success_message\">Success!</string>\r\n    <string name=\"logo\">logo</string>\r\n    <string name=\"textview\">TextView</string>\r\n    <string name=\"manufacturer\">manufacturer</string>\r\n    <string name=\"description\">description</string>\r\n    <string name=\"title\">title</string>\r\n    <string name=\"product_image\">product_image</string>\r\n\r\n</resources>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/values/strings.xml b/app/src/main/res/values/strings.xml
+--- a/app/src/main/res/values/strings.xml	
++++ b/app/src/main/res/values/strings.xml	
+@@ -41,5 +41,6 @@
+     <string name="description">description</string>
+     <string name="title">title</string>
+     <string name="product_image">product_image</string>
++    <string name="save">save</string>
+ 
+ </resources>
+\ No newline at end of file
